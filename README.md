@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Nikita! I love working with technology, building applications that make our lives easier and this led me to assume the role of an application developer with Citi!
+                                                          👋 Hi, I’m Nikita! 
+
+
+
+
+- I love working with technology, building applications that make our lives easier and this led me to assume the role of an application developer with Citi!
 - 👀 I throughly enjoy building speech assistants and chatbots to help with our simple needs.
 - 🌱 I’m currently learning Python from scratch.
 <!--- 💞️ I’m looking to collaborate on ...
